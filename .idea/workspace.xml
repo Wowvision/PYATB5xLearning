@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="Lab003 added">
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/LAb004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab007_Variables_identifier_Rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab008_Dynamically_typed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/Lab014_Math_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_07112024_keywords_identifier_variables/lab006_Variables_Types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics/Lab001_Python_HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics/Lab001_Python_HelloWorld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics/Lab002_Python_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics/Lab002_Python_basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics/Lab003_python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics/Lab003_python_Basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +56,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.LAb004.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_basics.executor": "Run",
     "Python.Lab003_python_Basics.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007_Variables_identifier_Rules.executor": "Run",
+    "Python.Lab008_Dynamically_typed.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014_Math_Function.executor": "Run",
+    "Python.lab006_Variables_Types.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -101,6 +119,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730942265919</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lab003 added">
+      <option name="closed" value="true" />
+      <created>1731076668399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731076668399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab003 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab003 added" />
   </component>
 </project>
