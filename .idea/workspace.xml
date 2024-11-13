@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="9th Nov commit">
-      <change beforePath="$PROJECT_DIR$/NOV/ex_09112024_literals_variables/Lab029_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_09112024_literals_variables/Lab029_Task1.py" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="12th Nov commit">
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_031_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_032_Operator_Airthemetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_033_Operator_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_034_Operator_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_035_Operator_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_036_operator_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_037_Operator_P5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_038_operators_P6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_039_Operators_P7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_040_Operators_P8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_041_ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_042_User_input_ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_043_Coding_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_044_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_045_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_046_Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +88,22 @@
     "Python.Lab028_Escape_char.executor": "Run",
     "Python.Lab029_Task1.executor": "Run",
     "Python.Lab19.executor": "Run",
+    "Python.Lab_031_Operators.executor": "Run",
+    "Python.Lab_032_Operator_Airthemetic.executor": "Run",
+    "Python.Lab_033_Operator_P1.executor": "Run",
+    "Python.Lab_034_Operator_P2.executor": "Run",
+    "Python.Lab_035_Operator_P3.executor": "Run",
+    "Python.Lab_036_operator_P4.executor": "Run",
+    "Python.Lab_037_Operator_P5.executor": "Run",
+    "Python.Lab_038_operators_P6.executor": "Run",
+    "Python.Lab_039_Operators_P7.executor": "Run",
+    "Python.Lab_040_Operators_P8.executor": "Run",
+    "Python.Lab_041_Operator_ternary.executor": "Run",
+    "Python.Lab_042_User_input_ternary_Operator.executor": "Run",
+    "Python.Lab_043_Coding_Q.executor": "Run",
+    "Python.Lab_044_Task1.executor": "Run",
+    "Python.Lab_045_Task2.executor": "Run",
+    "Python.Lab_046_Task3.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
     "Python.lab006_Variables_Types.executor": "Run",
     "Python.lab018.executor": "Run",
@@ -148,13 +180,22 @@
       <option name="project" value="LOCAL" />
       <updated>1731345133751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="12th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731379686807</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731379686807</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab003 added" />
     <MESSAGE value="new lab added" />
     <MESSAGE value="9th Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th Nov commit" />
+    <MESSAGE value="12th Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="12th Nov commit" />
   </component>
 </project>
