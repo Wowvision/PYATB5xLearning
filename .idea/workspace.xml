@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="12th Nov commit">
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_031_Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_032_Operator_Airthemetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_033_Operator_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_034_Operator_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_035_Operator_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_036_operator_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_037_Operator_P5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_038_operators_P6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_039_Operators_P7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_040_Operators_P8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_041_ternary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_042_User_input_ternary_Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_043_Coding_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_044_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_045_Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_046_Task3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_044_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_045_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_046_Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731379686807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731519721208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731519721208</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
