@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="12th Nov commit">
+      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_045_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_046_if_else_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_047_if_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_048_grade_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_044_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_045_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_046_Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,10 +92,17 @@
     "Python.Lab_041_Operator_ternary.executor": "Run",
     "Python.Lab_042_User_input_ternary_Operator.executor": "Run",
     "Python.Lab_043_Coding_Q.executor": "Run",
+    "Python.Lab_044.executor": "Run",
     "Python.Lab_044_Task1.executor": "Run",
+    "Python.Lab_045_Q.executor": "Run",
     "Python.Lab_045_Task2.executor": "Run",
     "Python.Lab_046_Task3.executor": "Run",
+    "Python.Lab_046_if_else_condition.executor": "Run",
+    "Python.Lab_047_if_else.executor": "Run",
+    "Python.Lab_048_grade_calc.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
+    "Python.Lab_Task1.executor": "Run",
+    "Python.Lab_Task2.executor": "Run",
     "Python.lab006_Variables_Types.executor": "Run",
     "Python.lab018.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -183,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731519721208</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="12th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731680739448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731680739448</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
