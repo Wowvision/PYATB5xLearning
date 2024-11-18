@@ -5,14 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="12th Nov commit">
-      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_045_Q.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_046_if_else_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_047_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_048_grade_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/LAb_049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_050_For_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_051_for_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_054_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_055_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_056_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_056_for_break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_058_Q.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_059_Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_060_Match_Statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/lab_57_pass_break.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_031_Operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_031_Operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_032_Operator_Airthemetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_032_Operator_Airthemetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_033_Operator_P1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_033_Operator_P1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_034_Operator_P2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_034_Operator_P2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_035_Operator_P3.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_035_Operator_P3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_036_operator_P4.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_036_operator_P4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_037_Operator_P5.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_037_Operator_P5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_038_operators_P6.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_038_operators_P6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_039_Operators_P7.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_039_Operators_P7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_040_Operators_P8.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_040_Operators_P8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_041_ternary_Operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_041_ternary_Operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_042_User_input_ternary_Operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_042_User_input_ternary_Operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_043_Coding_Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_043_Coding_Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_11112024_Operators/Lab_Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_12112024_Operators/Lab_Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_044.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_045_Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_045_Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_046_if_else_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_046_if_else_condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_047_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_047_if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_048_grade_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_048_grade_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_13112024_Conditions_loops/Lab_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,21 +59,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Wowvision"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Wowvision&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Wowvision/PYATB5xLearning.git",
-    "accountId": "0bb58cb3-d2a8-4af3-8a63-ca3da810cd5f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Wowvision/PYATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;0bb58cb3-d2a8-4af3-8a63-ca3da810cd5f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2oV6CC3Vry6U48hzP4ciwDuN1jY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,6 +85,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.LAb004.executor": "Run",
+    "Python.LAb_49.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_basics.executor": "Run",
     "Python.Lab003_python_Basics.executor": "Run",
@@ -100,11 +131,24 @@
     "Python.Lab_046_if_else_condition.executor": "Run",
     "Python.Lab_047_if_else.executor": "Run",
     "Python.Lab_048_grade_calc.executor": "Run",
+    "Python.Lab_058_Q.executor": "Run",
+    "Python.Lab_059_Continue.executor": "Run",
+    "Python.Lab_060_Match_Statement.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
+    "Python.Lab_50_For_Loop.executor": "Run",
+    "Python.Lab_51_for_Loop.executor": "Run",
+    "Python.Lab_52.executor": "Run",
+    "Python.Lab_53.executor": "Run",
+    "Python.Lab_54_while_loop.executor": "Run",
+    "Python.Lab_55_for_loop.executor": "Run",
+    "Python.Lab_56_Q.executor": "Run",
+    "Python.Lab_56_for_break.executor": "Run",
     "Python.Lab_Task1.executor": "Run",
     "Python.Lab_Task2.executor": "Run",
+    "Python.Lab_task.executor": "Run",
     "Python.lab006_Variables_Types.executor": "Run",
     "Python.lab018.executor": "Run",
+    "Python.lab_57_pass_break.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -132,8 +176,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab_056_for_break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PYATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NOV/ex_16112024_Loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\varti\PycharmProjects\PYATB5xLearning\NOV\ex_16112024_Loop\Lab_056_for_break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab_056_for_break" />
         <item itemvalue="Python.Lab003_python_Basics" />
       </list>
     </recent_temporary>
