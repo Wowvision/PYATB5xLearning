@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="16th Nov commit">
-      <change afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_061.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab71_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_062_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_063_function_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_064_Builtin_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_066_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_068_Function_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_069_Function_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_070_Function_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_65_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_67_Function types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_72_Args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_19112024_Functions/Lab_73_Real_Args.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +85,7 @@
     "Python.Lab028_Escape_char.executor": "Run",
     "Python.Lab029_Task1.executor": "Run",
     "Python.Lab19.executor": "Run",
+    "Python.Lab71_IQ.executor": "Run",
     "Python.Lab_031_Operators.executor": "Run",
     "Python.Lab_032_Operator_Airthemetic.executor": "Run",
     "Python.Lab_033_Operator_P1.executor": "Run",
@@ -99,6 +111,13 @@
     "Python.Lab_059_Continue.executor": "Run",
     "Python.Lab_060_Match_Statement.executor": "Run",
     "Python.Lab_061.executor": "Run",
+    "Python.Lab_062_Functions.executor": "Run",
+    "Python.Lab_063_function_part2.executor": "Run",
+    "Python.Lab_064_Builtin_function.executor": "Run",
+    "Python.Lab_066_pass.executor": "Run",
+    "Python.Lab_068_Function_input.executor": "Run",
+    "Python.Lab_069_Function_types.executor": "Run",
+    "Python.Lab_070_Function_IQ.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
     "Python.Lab_50_For_Loop.executor": "Run",
     "Python.Lab_51_for_Loop.executor": "Run",
@@ -108,6 +127,10 @@
     "Python.Lab_55_for_loop.executor": "Run",
     "Python.Lab_56_Q.executor": "Run",
     "Python.Lab_56_for_break.executor": "Run",
+    "Python.Lab_65_Functions.executor": "Run",
+    "Python.Lab_67_Function types.executor": "Run",
+    "Python.Lab_72_Args.executor": "Run",
+    "Python.Lab_73_Real_Args.executor": "Run",
     "Python.Lab_Task1.executor": "Run",
     "Python.Lab_Task2.executor": "Run",
     "Python.Lab_task.executor": "Run",
@@ -242,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731951784028</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="16th Nov commit">
+      <option name="closed" value="true" />
+      <created>1731980028698</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731980028698</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
