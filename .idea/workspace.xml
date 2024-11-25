@@ -4,23 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="19th Nov commit">
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab083_Type_conversion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_078_Inner_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_079_Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_080_decorator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_081_without_decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_082_real_example_decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_084_Foor_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_77_Local_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_right_triangle_task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_task2_Left_triangle.py" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="21th Nov commit">
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab98_Set_p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_100_SET_imp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_85_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_86_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_87_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_89_Lambda_Mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_90_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_92_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_93_List_pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_94_Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_95_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_96_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_97_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_99_Set_p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/lab_88_Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/lab_91_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_14112024_Conditions_loops/Lab_Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_16112024_Loop/Lab_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_task2_Left_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_task2_Left_triangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +92,7 @@
     "Python.Lab083_Type_conversion.executor": "Run",
     "Python.Lab19.executor": "Run",
     "Python.Lab71_IQ.executor": "Run",
+    "Python.Lab98_Set_p2.executor": "Run",
     "Python.Lab_031_Operators.executor": "Run",
     "Python.Lab_032_Operator_Airthemetic.executor": "Run",
     "Python.Lab_033_Operator_P1.executor": "Run",
@@ -130,6 +133,7 @@
     "Python.Lab_081_without_decor.executor": "Run",
     "Python.Lab_082_real_example_decor.executor": "Run",
     "Python.Lab_084_Foor_loop.executor": "Run",
+    "Python.Lab_100_SET_imp.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
     "Python.Lab_50_For_Loop.executor": "Run",
     "Python.Lab_51_for_Loop.executor": "Run",
@@ -143,18 +147,38 @@
     "Python.Lab_67_Function types.executor": "Run",
     "Python.Lab_72_Args.executor": "Run",
     "Python.Lab_73_Real_Args.executor": "Run",
+    "Python.Lab_85_Lambda.executor": "Run",
+    "Python.Lab_86_Lambda.executor": "Run",
+    "Python.Lab_87_Lambda.executor": "Run",
+    "Python.Lab_89_Lambda_Mul.executor": "Run",
+    "Python.Lab_90_Lambda.executor": "Run",
+    "Python.Lab_92_List.executor": "Run",
+    "Python.Lab_93_List_pop.executor": "Run",
+    "Python.Lab_94_Tuple.executor": "Run",
+    "Python.Lab_95_tuple.executor": "Run",
+    "Python.Lab_96_tuple.executor": "Run",
+    "Python.Lab_97_set.executor": "Run",
+    "Python.Lab_99_Set_p3.executor": "Run",
     "Python.Lab_Local_var.executor": "Run",
     "Python.Lab_Task1.executor": "Run",
     "Python.Lab_Task2.executor": "Run",
     "Python.Lab_right_triangle_task1.executor": "Run",
     "Python.Lab_task.executor": "Run",
+    "Python.Lab_task2_Left_triangle.executor": "Run",
     "Python.lab006_Variables_Types.executor": "Run",
     "Python.lab018.executor": "Run",
     "Python.lab_57_pass_break.executor": "Run",
+    "Python.lab_88_Lambda.executor": "Run",
+    "Python.lab_91_List.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\varti\PycharmProjects\PYATB5xLearning\NOV" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab003_python_Basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB5xLearning" />
@@ -295,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732115755561</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="21th Nov commit">
+      <option name="closed" value="true" />
+      <created>1732295442385</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732295442385</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -305,6 +337,7 @@
     <MESSAGE value="12th Nov commit" />
     <MESSAGE value="16th Nov commit" />
     <MESSAGE value="19th Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th Nov commit" />
+    <MESSAGE value="21th Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="21th Nov commit" />
   </component>
 </project>
