@@ -5,24 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="21th Nov commit">
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab98_Set_p2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_100_SET_imp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_85_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_86_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_87_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_89_Lambda_Mul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_90_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_92_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_93_List_pop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_94_Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_95_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_96_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_97_set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/Lab_99_Set_p3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/lab_88_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_23112024_Lambda_list_Tuple_set/lab_91_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/LAb_108_task_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_101_opps_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_102_class_Dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_103_class_dog_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_104_class_dog_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_105_Person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_106_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_107_Calculator_PC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_109_Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_task2_Left_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_21112024_Function_scope/Lab_task2_Left_triangle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +57,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.LAb004.executor": "Run",
+    "Python.LAb_108_task_PC.executor": "Run",
     "Python.LAb_49.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_basics.executor": "Run",
@@ -134,6 +127,13 @@
     "Python.Lab_082_real_example_decor.executor": "Run",
     "Python.Lab_084_Foor_loop.executor": "Run",
     "Python.Lab_100_SET_imp.executor": "Run",
+    "Python.Lab_101_opps_class.executor": "Run",
+    "Python.Lab_102_class_Dog.executor": "Run",
+    "Python.Lab_103_class_dog_P2.executor": "Run",
+    "Python.Lab_104_class_dog_P3.executor": "Run",
+    "Python.Lab_105_Person.executor": "Run",
+    "Python.Lab_106_Calculator.executor": "Run",
+    "Python.Lab_107_Calculator_PC.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
     "Python.Lab_50_For_Loop.executor": "Run",
     "Python.Lab_51_for_Loop.executor": "Run",
