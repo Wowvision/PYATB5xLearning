@@ -1,3 +1,16 @@
+# Research about the OOPs concepts
+#
+# Task 1 - Create a Class PyATB , 5 Attributes, 3 Functions/Methods
+#
+# Use PC - to set the value of the attributes
+#
+# create a Print student information method/function
+#
+# 3 studetns objects
+#
+# PyATB().print_student_infomation()
+
+
 class PYATB:
 
     def __init__(self, id,name,branch,age,batch):

@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="21th Nov commit">
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/LAb_108_task_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_101_opps_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_102_class_Dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_103_class_dog_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_104_class_dog_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_105_Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_106_Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_107_Calculator_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_109_Task2.py" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="28th Nov commit">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_110_oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_111_oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_112_Class_instance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_113_Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_114_Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_115_Ecapsulation_ft.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_116_Encap_ft_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_117_Encapsulation_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_118_Encapsulation_exam_Bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOV/ex_30112024_OOPS/Lab_119_encapsulation_personal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_28112024_OOps/LAb_108_Task1_PC.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/LAb_108_Task1_PC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_109_Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/NOV/ex_28112024_OOps/Lab_109_Task2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +138,15 @@
     "Python.Lab_105_Person.executor": "Run",
     "Python.Lab_106_Calculator.executor": "Run",
     "Python.Lab_107_Calculator_PC.executor": "Run",
+    "Python.Lab_110_oops.executor": "Run",
+    "Python.Lab_111_oops.executor": "Run",
+    "Python.Lab_112_Class_instance.executor": "Run",
+    "Python.Lab_113_Encapsulation.executor": "Run",
+    "Python.Lab_114_Encapsulation.executor": "Run",
+    "Python.Lab_115_Ecapsulation_ft.executor": "Run",
+    "Python.Lab_117_Encapsulation_example.executor": "Run",
+    "Python.Lab_118_Encapsulation_exam_Bank.executor": "Run",
+    "Python.Lab_119_encapsulation_personal.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
     "Python.Lab_50_For_Loop.executor": "Run",
     "Python.Lab_51_for_Loop.executor": "Run",
@@ -327,7 +340,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732295442385</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="28th Nov commit">
+      <option name="closed" value="true" />
+      <created>1733501432530</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733501432530</updated>
+    </task>
+    <task id="LOCAL-00012" summary="28th Nov commit">
+      <option name="closed" value="true" />
+      <created>1733501504724</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733501504724</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -338,6 +367,7 @@
     <MESSAGE value="16th Nov commit" />
     <MESSAGE value="19th Nov commit" />
     <MESSAGE value="21th Nov commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="21th Nov commit" />
+    <MESSAGE value="28th Nov commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="28th Nov commit" />
   </component>
 </project>
