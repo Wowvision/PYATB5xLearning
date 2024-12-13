@@ -4,34 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="3rd Dec commit">
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/LAb_151_exception_try_except_syantax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_142_Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_143_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_144_Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_145_Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_146_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_147_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_148_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_149_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_150_Exception_fix_149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_152_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_153_exception_try_except_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_154_exception_try_except_else_finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_155_Module_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_156_Module_os.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_157_exceptions_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_158_File_IO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_159_Custome_exceptio n.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_160_Main_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_161_Main_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_162_Write_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_163_CSV_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_164_Excel_read_panda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/TestData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/__init__.py" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="7th Dec commit">
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/Lab+166_Modules_p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/Lab_165_Modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/Lab_167_import_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/MysqlConnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/browser_package/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/browser_package/OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/browser_package/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_148_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_148_Exception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +59,7 @@
     "Python.LAb004.executor": "Run",
     "Python.LAb_108_task_PC.executor": "Run",
     "Python.LAb_49.executor": "Run",
+    "Python.Lab+166_Modules_p1.executor": "Run",
     "Python.Lab001_Python_HelloWorld.executor": "Run",
     "Python.Lab002_Python_basics.executor": "Run",
     "Python.Lab003_python_Basics.executor": "Run",
@@ -203,6 +187,7 @@
     "Python.Lab_162_Write_file.executor": "Run",
     "Python.Lab_163_CSV_files.executor": "Run",
     "Python.Lab_164_Excel_read_panda.executor": "Run",
+    "Python.Lab_167_import_from.executor": "Run",
     "Python.Lab_30_Task2.executor": "Run",
     "Python.Lab_50_For_Loop.executor": "Run",
     "Python.Lab_51_for_Loop.executor": "Run",
@@ -466,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733851103182</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="7th Dec commit">
+      <option name="closed" value="true" />
+      <created>1734083970646</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1734083970646</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -479,6 +472,7 @@
     <MESSAGE value="21th Nov commit" />
     <MESSAGE value="28th Nov commit" />
     <MESSAGE value="3rd Dec commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd Dec commit" />
+    <MESSAGE value="7th Dec commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="7th Dec commit" />
   </component>
 </project>

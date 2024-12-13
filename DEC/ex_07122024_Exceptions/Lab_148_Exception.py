@@ -1,1 +1,1 @@
-while True print("Hello")     #SyntaxError: invalid syntax
+while True   print("Hello")     #SyntaxError: invalid syntax
