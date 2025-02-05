@@ -4,17 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="7th Dec commit">
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/Lab+166_Modules_p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/Lab_165_Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/Lab_167_import_from.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/MysqlConnector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/browser_package/CloseBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/browser_package/OpenBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC/ex_10122024_Modules/browser_package/__init__.py" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="10th Dec commit">
+      <change afterPath="$PROJECT_DIR$/JAN/Test03_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/Test04_Selenium_3_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/Test07_selenium_multiple_browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/Test08_close_Quit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test05_Selenium_basic_commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test06_Selenium_miniproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test11_selenium_locators_miniproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test12_selenium_locators_miniproject2_freetrial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test13_selenium_locators_miniproject_tagname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test_09_Selenium_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test_10_selenium_locators_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAN/test_Task_11th_jan_selenium.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_148_Exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_148_Exception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +62,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Test03_Selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for Test08_close_Quit.test_katalon_firefox.executor": "Run",
+    "Python tests.Python tests for test05_Selenium_basic commands.test_Selenium_basic_Commands.executor": "Run",
+    "Python tests.Python tests for test05_Selenium_basic_commands.test_Selenium_basic_Commands.executor": "Run",
+    "Python tests.Python tests for test06_Selenium_miniproject.test_vwo_sample.executor": "Run",
+    "Python tests.Python tests for test11_selenium_locators_miniproject.test_app_vwo_login.executor": "Run",
+    "Python tests.Python tests for test12_selenium_locators_miniproject2_freetrial.test_app_vwo_free_trial.executor": "Run",
+    "Python tests.Python tests for test_09_Selenium_locators.test_katalon_firefox.executor": "Run",
+    "Python tests.Python tests for test_10_selenium_locators_options.test_katalon_Chrome.executor": "Run",
+    "Python tests.Python tests for test_Selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Task_11th_jan_selenium.test_title_current_url.executor": "Run",
+    "Python tests.Python tests in test13_selenium_locators_miniproject_tagname.py.executor": "Run",
     "Python.LAb004.executor": "Run",
     "Python.LAb_108_task_PC.executor": "Run",
     "Python.LAb_49.executor": "Run",
@@ -234,100 +252,88 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Lab003_python_Basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test11_selenium_locators_miniproject.test_app_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NOV/ex_05112014_Python_Basics/Lab003_python_Basics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test11_selenium_locators_miniproject.test_app_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_056_for_break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test12_selenium_locators_miniproject2_freetrial.test_app_vwo_free_trial" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NOV/ex_16112024_Loop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\varti\PycharmProjects\PYATB5xLearning\NOV\ex_16112024_Loop\Lab_056_for_break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test12_selenium_locators_miniproject2_freetrial.test_app_vwo_free_trial&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_160_Main_Method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_09_Selenium_locators.test_katalon_firefox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC/ex_07122024_Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_160_Main_Method.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_09_Selenium_locators.test_katalon_firefox&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_161_Main_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_10_selenium_locators_options.test_katalon_Chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PYATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC/ex_07122024_Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC/ex_07122024_Exceptions/Lab_161_Main_method.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_10_selenium_locators_options.test_katalon_Chrome&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Task_11th_jan_selenium.test_title_current_url" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PYATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/JAN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Task_11th_jan_selenium.test_title_current_url&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab_161_Main_method" />
-        <item itemvalue="Python.Lab_160_Main_Method" />
-        <item itemvalue="Python.Lab003_python_Basics" />
-        <item itemvalue="Python.Lab_056_for_break" />
+        <item itemvalue="Python tests.Python tests for test12_selenium_locators_miniproject2_freetrial.test_app_vwo_free_trial" />
+        <item itemvalue="Python tests.Python tests for test11_selenium_locators_miniproject.test_app_vwo_login" />
+        <item itemvalue="Python tests.Python tests for test_10_selenium_locators_options.test_katalon_Chrome" />
+        <item itemvalue="Python tests.Python tests for test_09_Selenium_locators.test_katalon_firefox" />
+        <item itemvalue="Python tests.Python tests for test_Task_11th_jan_selenium.test_title_current_url" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734083970646</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="10th Dec commit">
+      <option name="closed" value="true" />
+      <created>1734106062955</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734106062955</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -473,6 +487,7 @@
     <MESSAGE value="28th Nov commit" />
     <MESSAGE value="3rd Dec commit" />
     <MESSAGE value="7th Dec commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="7th Dec commit" />
+    <MESSAGE value="10th Dec commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="10th Dec commit" />
   </component>
 </project>
