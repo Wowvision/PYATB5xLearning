@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="16th jan commit">
-      <change afterPath="$PROJECT_DIR$/JAN/test14_selenium_locators_task16th_jan.py" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="19th jan commit">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAN/test14_selenium_locators_task16th_jan.py" beforeDir="false" afterPath="$PROJECT_DIR$/JAN/test14_selenium_locators_task16th_jan.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -468,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738775484233</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="19th jan commit">
+      <option name="closed" value="true" />
+      <created>1738862421652</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738862421652</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -484,6 +493,7 @@
     <MESSAGE value="7th Dec commit" />
     <MESSAGE value="10th Dec commit" />
     <MESSAGE value="16th jan commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="16th jan commit" />
+    <MESSAGE value="19th jan commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th jan commit" />
   </component>
 </project>
