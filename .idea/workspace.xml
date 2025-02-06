@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="10th Dec commit">
-      <change afterPath="$PROJECT_DIR$/JAN/Test03_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/Test04_Selenium_3_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/Test07_selenium_multiple_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/Test08_close_Quit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test05_Selenium_basic_commands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test06_Selenium_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test11_selenium_locators_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test12_selenium_locators_miniproject2_freetrial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test13_selenium_locators_miniproject_tagname.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test_09_Selenium_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test_10_selenium_locators_options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAN/test_Task_11th_jan_selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    <list default="true" id="97226a15-2097-4985-b946-8c061df39a53" name="Changes" comment="16th jan commit">
+      <change afterPath="$PROJECT_DIR$/JAN/test14_selenium_locators_task16th_jan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +60,7 @@
     "Python tests.Python tests for test_Selenium.test_vwo_login.executor": "Run",
     "Python tests.Python tests for test_Task_11th_jan_selenium.test_title_current_url.executor": "Run",
     "Python tests.Python tests in test13_selenium_locators_miniproject_tagname.py.executor": "Run",
+    "Python tests.Python tests in test14_selenium_locators_task16th_jan.py.executor": "Run",
     "Python.LAb004.executor": "Run",
     "Python.LAb_108_task_PC.executor": "Run",
     "Python.LAb_49.executor": "Run",
@@ -473,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734106062955</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="16th jan commit">
+      <option name="closed" value="true" />
+      <created>1738775484233</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738775484233</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -488,6 +483,7 @@
     <MESSAGE value="3rd Dec commit" />
     <MESSAGE value="7th Dec commit" />
     <MESSAGE value="10th Dec commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="10th Dec commit" />
+    <MESSAGE value="16th jan commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="16th jan commit" />
   </component>
 </project>
